@@ -7,6 +7,6 @@ The folders are structured in the following format:
 
 * Codebooks: All codebooks use for data collection and cleaning are stored here.
 
-* R-file: Replication code and auxiliary code are stored here.
-
 * Figures: Figures in main text and appendices are stored here.
+
+* R-file: Replication code and auxiliary code are stored here.
